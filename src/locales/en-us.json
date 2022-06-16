@@ -1,0 +1,148 @@
+{
+    "map":{
+        "map":"Map11",
+        "reports":"Reports",
+        "leaderboard":"Leaderboard",
+        "endOfSimulation":"End of Simulation",
+        "marketData":"Market Data",
+        "observations":"Observations",
+        "revenue":"revenue",
+        "decisionHistory":"Decision history",
+        "breakingField":"breaking from the field"
+        
+      },
+      "reports":{
+        "cityDemographicHeading":"City Demographic Mix by Location (2017)",
+        "frozenIndustryGraphHeading":"Frozen Industry Report (2017)",
+        "localCptGraphHeading":"Local Competition (Current Year)",
+        "footTrafGraphHeading":"Foot Traffic by Subway Stop (2015)",
+        "fronzenTreatGraphHeading":"Frozen Treat Sales by Demographic (2016)",
+        "locDemographicHeading":"Demographics by Location (2016)",
+        "locSalesGraphHeading":"Sales by Location (July 2016)",
+        "daily":"Daily",
+        "day":"Day",
+        "iceCream":"Ice Cream",
+        "smoothies":"Smoothies",
+        "frozenYogurt":"Frozen Yogurt",
+        "research":"Research",
+        "demoPerArea":"Demographic mix per area",
+        "demoPerAreaAge":"Demographic mix per area (AGE)"
+      },
+      "methods":{
+        "foodTruck":"Food Truck",
+        "pushCart":"Pushcart",
+        "research":"Research"
+      },
+      "menus":{
+        "iceCream":"Ice Cream",
+        "frozenYogurt":"Frozen Yogurt",
+        "smoothies":"Smoothies"
+      },
+      "locations":{
+        "downtown":"Downtown",
+        "artsDistrict":"Arts District",
+        "trainStation":"Train Station",
+        "university":"University",
+        "cityMarket":"City Market",
+        "beach":"Beach",
+        "downtownValue":"Working professionals",
+        "artsDistrictValue":"Children, young couples, and older couples",
+        "trainStationValue":"Working commuters",
+        "universityValue":"Students",
+        "cityMarketValue":"Young couples and older couples",
+        "beachValue":"Mostly young families with children, and students"
+      },
+      "people":{
+        "children":"Children",
+        "young":"Young Adults",
+        "adults":"Adults",
+        "seniors":"Seniors",
+        "childrenValue":"Ice cream is still the overwhelming preference, but frozen yogurt is growing in popularity.",
+        "youngValue":"Frozen yogurt and smoothies have caught up to ice cream in popularity in this bracket and are expected to stay neck and neck in the coming years.",
+        "adultsValue":"Health consciousness in this group will continue to push frozen yogurt and smoothies ahead of ice cream.",
+        "seniorsValue":"Ice cream is expected to continue to be the overwhelming favorite among this group."
+      },
+      "breakings":{
+        "b1":"Office workers downtown indulge in ice cream on occasion , but it's not a very popular choice.",
+        "b2":"Young professionals are moving downtown in droves , helping to spark a local frozen yogurt craze.",
+        "b3":"Office workers comment on how much they like your smoothies , but sales overall seem average.",
+        "b4":"Thanks to a string of glowing reviews in the Boomtown Courier , tourists have been flooding into see shows at the local theatre, resulting in increased foot traffic in the arts district.",
+        "b5":"Having tried the arts district before, you position yourself at the optimal spot to take advantage of increased foot traffic, resulting in increased sales.",
+        "b6":"Business is booming at the arts districts existing and very popular frozen yogurt store ,making it difficult to compete there despite the recent influx of tourists.",
+        "b7":"Having tried the arts district before , you position yourself at the optimal spot to take advantage of increased foot traffic , resulting in increased sales.",
+        "b8":"Thanks to a string of glowing reviews in the Boomtown Courier , tourists have been flooding into see shows at the local theatre , resulting in increased foot traffic in the arts district.",
+        "b9":"Having tried the arts district before , you position yourself at the optimal spot to take advantage of increased foot traffic , resulting in increased sales.",
+        "b10":"Commuters often seem embarrassed ordering ice cream without children in tow , but sales appear largely unaffected.",
+        "b11":"Although most of them are too busy to stop , huge numbers of pedestrians , mostly in their 20s , 30s and 40s , pass through the train station each day.",
+        "b12":"You can predict peak periods using the train schedules, which allows you to pre-make smoothies during the down times and process orders faster than you otherwise would something that is difficult to do with ice cream and frozen yogurt.",
+        "b13":"Long lines tend to form during the short , 10-minute period between classes . But many potential customers abandon the line when the next class period begins.",
+        "b14":"With their bags overloaded with vegetables and whole grain bread , the clientele at the city market bypass your ice cream for healthier options.",
+        "b15":"A recent article in the City Market circular extolled the virtues of healthier dessert options such as fruit , mochi, and frozen yogurt.",
+        "b16":"Health-conscious empty nesters seem to drive the majority of your smoothie sales at the market.",
+        "b17":"Construction has just begun on a new beach boardwalk , creating a noisy mess near the main entrance and decreasing foot traffic."
+      },
+      "makeDecisions":{
+        "makeDecisions":"Make Decisions",
+        "method":"Method",
+        "menu":"Menu",
+        "location":"Location",
+        "remind1":"You are not able to sell frozen treats while you conduct research",
+        "remind2":"You are not able to sell frozen treats while you conduct research",
+        "go":"GO!",
+        "buttonDisabled":"button is disabled",
+        "strategy":"Strategy for Week",
+        "day":"Day"
+      },
+      "others":{
+        "summaryNotes":"Summary Notes",
+        "product":"Product",
+        "foodService":"Food Service Sales by Age Group (in thousands)",
+        "trendsDemo":"Trends by Demographic",
+        "sources":"Source: Market Research Database ABC, Frozen Treat Industry 2016",
+        "demoMix":"Demographic Mix per Location",
+        "snapshot":"Snapshot",
+        "other":"Other"
+      },
+      "demograNotes":{
+        "d1":"Children found mostly at the beach or arts district",
+        "d2":"Young adults found mostly at the university, train, or downtown",
+        "d3":"Adults found mostly downtown or train",
+        "d4":"Older adults found mostly at arts district or market",
+        "demograCite":"Source: Boomtown Business Association, Customer Profile Special Report (2017), Section II: Retail &amp; Food Service"
+      },
+      "frozenIndustry":{
+        "industry":"Industry",
+        "foodService":"Food Service",
+        "notes1":"Health Consciousness: Increased health consciousness is shifting taste preferences towards frozen yogurt, smoothies, and others perceived to be less unhealthy.",
+        "notes2":"Fragmented Market: The increasing number and variety of frozen snack options is fragmenting the market.",
+        "notes3":"Popularity of Local: The increased popularity of local and hand-crafted products is giving greater power to local, independent ventures (at the expense of major chains).",
+        "snapshot1":"Annualized Growth expected over the next 5 years",
+        "snapshot2":"Frozen Treat Industry",
+        "snapshot3":"from Foodservice Locations"
+      },
+      "localCpt":{
+        "p1":"This is the first year Boomtown has issued food truck licenses, and you have one of only five offered! The other four licenses have been awarded to trucks serving savory foods (falafel, tacos, burgers, and Indian dosas).",
+        "p2":"There are only a handful of frozen treat establishments, and they are spread out around the city:",
+        "downtownCpt":"1 smoothie store, 1 frozen yogurt store",
+        "cityMarketCpt":"1 ice cream store, 1 smoothie stand",
+        "trainStationCpt":"1 frozen yogurt store",
+        "artsDistrictCpt":"1 frozen yogurt store, 1 ice cream stand",
+        "universityCpt":"none",
+        "beachCpt":"1 frozen yogurt stand, 1 ice cream store"
+      },
+      "footTraf":{
+        "source":"Source: Boomtown Department of Transportation (DOT), Automated Fare Collection (AFC) FY2015",
+        "tableTitle":"Ranked Station Entries (Typical Weekday FY2015)",
+        "yellow":"Yellow",
+        "blue":"Blue",
+        "green":"Green",
+        "yellow":"Yellow"
+      },
+      "about":{
+        "p1":"Boomtown is a modest but prosperous city that acts as a regional hub for the surrounding suburban neighborhoods. Its economy has traditionally been driven by professionals who commute into the city by train and car, as well as a small urban population.",
+        "p2":"For many years, quiet little Boomtown has been a \"well-kept secret\" for locals. It has an impressive array of world class features for such a small city, including a thriving museum and theatre scene, a pleasant public beach, and a hometown university that is well regarded for its academic programs, particularly in the growing fields of biotech and environmental engineering. Additionally, the consistently mild weather means that locals enjoy the city market and other public spaces year-round.",
+        "p3":"Recently Boomtown has been cited as a city on the rise. The population is growing—driven largely by students, young workers, and empty nesters moving downtown, and by young families moving into the surrounding neighborhoods. Based on a growing population and overall culture of innovation, Boomtown was recently named a \"city to watch\" for small businesses.",
+        "p4":"All things considered, Boomtown seems like a great city to kick off your new venture!",
+        "title":"ABOUT"
+      }
+}
